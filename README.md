@@ -1,1 +1,2 @@
-# Traffic-accident-severity-prediction
+# Traffic-accident-severity-prediction 
+In this project, I preprocessed the traffic accident severity dataset to fit in the machine learning model. There are several machine learning models have been used to see which gives us the best performance overall. The dataset was taken from https://data.gov.uk/dataset/6efe5505-941f-45bf-b576-4c1e09b579a1/road-traffic-accidents/datafile/89bf272f-c09f-4216-af7d-feb78ea94cbb/preview. Several machine learning models such as SVM, Random forest, Naive bias, etc. As well as hybridized Artificial neural network with genetic algorithm(ANN_GA), Ann with particle swarm optimization(ANN-PSO), Ann with principal component analysis (ANN-PCA). 
